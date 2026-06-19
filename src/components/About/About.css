@@ -1,0 +1,29 @@
+#about {
+  min-height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 100px 10%;
+}
+
+.about-container {
+  max-width: 900px;
+  text-align: center;
+}
+
+.about-container h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+  color: #38bdf8;
+}
+
+.about-container p {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: #cbd5e1;
+}
+
+.highlight {
+  color: #8b5cf6;
+  font-weight: 600;
+}
